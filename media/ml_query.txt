@@ -1,0 +1,1 @@
+In classic terms, machine learning is a type of artificial intelligence that enables self-learning from data and then applies that learning without the need for human intervention. In actuality, there are many different types of machine learning, as well as many strategies of how to best employ them.
